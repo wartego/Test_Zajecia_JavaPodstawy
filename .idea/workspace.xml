@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/JavaDateExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/MethodIfAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/MyFirstJavaProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/WyprobowanieMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z10_SumaCyfrZLiczby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z11_DlugoscTekstu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z12_IloscSpacjiTekst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z13_PodowojnyTekst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z14_IleZnakowPomiedzyLiterami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z15_WypisujePowtorzoneLiczby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z17_LiczbaDniPomiedzyDatami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z1_Pi_calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z2_ProgramBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z3_RowKwadratowe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z4_PifPaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z5_LiczbyPierwsze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z6_SzeregHarmoniczny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z7_CiagFibonaciego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z8_Kalkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/Z9_Fale.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/javaPodstawyProgramowanie/MyFirstJavaProgram.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2CYuTuLWQ0RGIN4f37K6qSxt1B4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tro/IdeaProjects/Test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="javaPodstawyProgramowanie" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="2022-02-22_set_downlink" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Rozne/ResetdateLORA" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Rozne/ResetdateLORA/2022-02-22_set_downlink.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="" />
+      <created>1658991852033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658991852033</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test$Z15_WypisujePowtorzoneLiczby.ic" NAME="Z15_WypisujePowtorzoneLiczby Coverage Results" MODIFIED="1661769275152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javaPodstawyProgramowanie.*</FILTER>
+    </SUITE>
+  </component>
+</project>
