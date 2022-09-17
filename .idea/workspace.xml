@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="Pierwszy program">
-      <change beforePath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Z1_2_Pi_calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Z4_ProgramBMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/samemuZadaniaPodstawy/Z1_Pi_calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/samemuZadaniaPodstawy/Z1_Pi_calculation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +53,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="javaPodstawyProgramowanie.programyZajeciaDzien1" />
       <recent name="javaPodstawyProgramowanie.samemu" />
       <recent name="javaPodstawyProgramowanie" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javaPodstawyProgramowanie.programyZajeciaDzien1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RunManager">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaPodstawyProgramowanie.programyZajeciaDzien1.Task1" />
       <module name="TestoweZadaniaJavaPodstawy" />
