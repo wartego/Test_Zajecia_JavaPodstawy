@@ -4,7 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="Test">
+    <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="Pierwszy program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Task1.java" afterDir="false" />
     </list>
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663402511978</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pierwszy program">
+      <created>1663405000494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663405000494</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Pierwszy program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy program" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Test$Z15_WypisujePowtorzoneLiczby.ic" NAME="Z15_WypisujePowtorzoneLiczby Coverage Results" MODIFIED="1661769275152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
