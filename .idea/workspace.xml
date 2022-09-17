@@ -4,11 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="Pierwszy program">
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Z1_2_Pi_calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Z4_ProgramBMI.java" afterDir="false" />
+    <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="Poprawki">
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Z5_DodawanieLiczbOdXdoY.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/samemuZadaniaPodstawy/Z1_Pi_calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/samemuZadaniaPodstawy/Z1_Pi_calculation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663405809056</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Poprawki">
+      <created>1663411834083</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663411834083</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,7 +168,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <MESSAGE value="Pierwszy program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy program" />
+    <MESSAGE value="Poprawki" />
+    <option name="LAST_COMMIT_MESSAGE" value="Poprawki" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Test$Z15_WypisujePowtorzoneLiczby.ic" NAME="Z15_WypisujePowtorzoneLiczby Coverage Results" MODIFIED="1661769275152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
