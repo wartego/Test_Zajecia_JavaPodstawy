@@ -7,6 +7,7 @@ public class Task1 {
         displayWordUsingBinaryFormat();
         System.out.println("");
         displayWordUsingHexaFormat();
+        System.out.println("");
     }
 
     private static void displayWordUsingDecimalFormat() {
