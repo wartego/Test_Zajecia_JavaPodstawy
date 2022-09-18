@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="PoprawkiDodawanieLiczb">
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Z6_TabliczkaMnozenia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Z8_LiczbyPierwsze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programyZajeciaDzien1/Z9_FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/StringValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z11_Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z13_Tablice_NajmnieszeNajwieksze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z1_Stringi_Tekst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z2_String_Prefix_Suffix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z3_StringIfExistingInInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z4_StringChangeChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z5_StringCharacterEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z8_LowerCaseToUpper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/samemuZadaniaPodstawy/Z5_LiczbyPierwsze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/samemuZadaniaPodstawy/Z5_LiczbyPierwsze.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +38,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2CYuTuLWQ0RGIN4f37K6qSxt1B4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,13 +67,13 @@
       <recent name="javaPodstawyProgramowanie.programyZajeciaDzien1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RunManager">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaPodstawyProgramowanie.programyZajeciaDzien1.Task1" />
       <module name="TestoweZadaniaJavaPodstawy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPodstawyProgramowanie.programyZajeciaDzien1.*" />
+          <option name="PATTERN" value="javaPodstawyProgramowanie.programZajeciaDzien2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663418312041</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="PoprawkiDodawanieLiczb">
+      <created>1663483558010</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663483558010</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
