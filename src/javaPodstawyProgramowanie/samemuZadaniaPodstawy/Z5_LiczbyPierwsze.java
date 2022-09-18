@@ -7,7 +7,7 @@ public class Z5_LiczbyPierwsze {
         System.out.println("Program wypisuje liczbe pierwszy z zakresu od 1 do liczba");
         System.out.println("Podaj wartosc liczba: ");
         Scanner input = new Scanner(System.in);
-        String status = "";
+        String status = "x";
         int liczba = input.nextInt();
 
         for (int i = 1; i <= liczba; i++) {
@@ -21,7 +21,9 @@ public class Z5_LiczbyPierwsze {
                     status = " Pierwsza";
                 }
             }
-            //if(status == " Pierwsza")
+            if (i==1){
+                status = " Pierwsza";
+            }
             System.out.println(i + status);
         }
 
