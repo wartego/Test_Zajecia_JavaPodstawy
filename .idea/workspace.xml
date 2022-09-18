@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="PoprawkiDodawanieLiczb">
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/StringValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z11_Palindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z13_Tablice_NajmnieszeNajwieksze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z1_Stringi_Tekst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z2_String_Prefix_Suffix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z3_StringIfExistingInInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z4_StringChangeChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z5_StringCharacterEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z8_LowerCaseToUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z14_LicznyUjemneIDodatnie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z15_PorownanieTablic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z18_LosoweLiczbyIIchWystepowanie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
