@@ -3,11 +3,15 @@
   <component name="AnalysisUIOptions">
     <option name="SCOPE_TYPE" value="3" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="PoprawkiDodawanieLiczb">
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z14_LicznyUjemneIDodatnie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z15_PorownanieTablic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/programZajeciaDzien2/Z18_LosoweLiczbyIIchWystepowanie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/PracaDomowa/Z10_LastLetterFromWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/PracaDomowa/Z6_WystapienieZnaku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/PracaDomowa/Z7_SpacesInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/PracaDomowa/Z9_TheLongestProvidedText.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
