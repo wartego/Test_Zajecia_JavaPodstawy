@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="PracaDomowa2">
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/ZadaniaWlasneTestowe/Z20_Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/ZadaniaWlasneTestowe/ZadanieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/ZadaniaWlasneTestowe/IntToInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
