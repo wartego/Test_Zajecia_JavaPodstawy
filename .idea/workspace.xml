@@ -4,8 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="PoprawkiDodawanieLiczb">
-      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/PracaDomowa/Z12_CezarSequanceChanging.java" afterDir="false" />
+    <list default="true" id="d7df51e9-5845-4945-82fa-df78365fef74" name="Changes" comment="PracaDomowa2">
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/ZadaniaWlasneTestowe/Z20_Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPodstawyProgramowanie/ZadaniaWlasneTestowe/ZadanieTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,17 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tro/IdeaProjects/Proba&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/tro/IdeaProjects/Test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="javaPodstawyProgramowanie.programyZajeciaDzien1" />
@@ -66,6 +67,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaPodstawyProgramowanie.programZajeciaDzien2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZadanieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPodstawyProgramowanie.ZadaniaWlasneTestowe.ZadanieTest" />
+      <module name="TestoweZadaniaJavaPodstawy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPodstawyProgramowanie.ZadaniaWlasneTestowe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZadanieTest" />
         <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
@@ -165,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663483558010</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="PracaDomowa2">
+      <created>1663829057651</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663829057651</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,7 +206,8 @@
     <MESSAGE value="Pierwszy program" />
     <MESSAGE value="Poprawki" />
     <MESSAGE value="PoprawkiDodawanieLiczb" />
-    <option name="LAST_COMMIT_MESSAGE" value="PoprawkiDodawanieLiczb" />
+    <MESSAGE value="PracaDomowa2" />
+    <option name="LAST_COMMIT_MESSAGE" value="PracaDomowa2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Test$Z15_WypisujePowtorzoneLiczby.ic" NAME="Z15_WypisujePowtorzoneLiczby Coverage Results" MODIFIED="1661769275152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
